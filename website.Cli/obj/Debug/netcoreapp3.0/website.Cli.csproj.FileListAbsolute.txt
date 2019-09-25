@@ -1,0 +1,14 @@
+/home/alex/Documents/WebPrototype/website.Cli/bin/Debug/netcoreapp3.0/website.Cli
+/home/alex/Documents/WebPrototype/website.Cli/bin/Debug/netcoreapp3.0/website.Cli.deps.json
+/home/alex/Documents/WebPrototype/website.Cli/bin/Debug/netcoreapp3.0/website.Cli.runtimeconfig.json
+/home/alex/Documents/WebPrototype/website.Cli/bin/Debug/netcoreapp3.0/website.Cli.runtimeconfig.dev.json
+/home/alex/Documents/WebPrototype/website.Cli/bin/Debug/netcoreapp3.0/website.Cli.dll
+/home/alex/Documents/WebPrototype/website.Cli/bin/Debug/netcoreapp3.0/website.Cli.pdb
+/home/alex/Documents/WebPrototype/website.Cli/bin/Debug/netcoreapp3.0/website.Common.dll
+/home/alex/Documents/WebPrototype/website.Cli/bin/Debug/netcoreapp3.0/website.Common.pdb
+/home/alex/Documents/WebPrototype/website.Cli/obj/Debug/netcoreapp3.0/website.Cli.csprojAssemblyReference.cache
+/home/alex/Documents/WebPrototype/website.Cli/obj/Debug/netcoreapp3.0/website.Cli.AssemblyInfoInputs.cache
+/home/alex/Documents/WebPrototype/website.Cli/obj/Debug/netcoreapp3.0/website.Cli.AssemblyInfo.cs
+/home/alex/Documents/WebPrototype/website.Cli/obj/Debug/netcoreapp3.0/website.Cli.csproj.CopyComplete
+/home/alex/Documents/WebPrototype/website.Cli/obj/Debug/netcoreapp3.0/website.Cli.dll
+/home/alex/Documents/WebPrototype/website.Cli/obj/Debug/netcoreapp3.0/website.Cli.pdb

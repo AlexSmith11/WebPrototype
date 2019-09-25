@@ -1,0 +1,8 @@
+/home/alex/Documents/WebPrototype/website.Common/bin/Debug/netstandard2.0/website.Common.deps.json
+/home/alex/Documents/WebPrototype/website.Common/bin/Debug/netstandard2.0/website.Common.dll
+/home/alex/Documents/WebPrototype/website.Common/bin/Debug/netstandard2.0/website.Common.pdb
+/home/alex/Documents/WebPrototype/website.Common/obj/Debug/netstandard2.0/website.Common.csprojAssemblyReference.cache
+/home/alex/Documents/WebPrototype/website.Common/obj/Debug/netstandard2.0/website.Common.AssemblyInfoInputs.cache
+/home/alex/Documents/WebPrototype/website.Common/obj/Debug/netstandard2.0/website.Common.AssemblyInfo.cs
+/home/alex/Documents/WebPrototype/website.Common/obj/Debug/netstandard2.0/website.Common.dll
+/home/alex/Documents/WebPrototype/website.Common/obj/Debug/netstandard2.0/website.Common.pdb
